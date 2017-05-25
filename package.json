@@ -11,7 +11,7 @@
     "doc": "doc",
     "test": "tests"
   },
-  "repository": "",
+  "repository": "https://github.com/sriharipr/ember-cli-star-rating",
   "scripts": {
     "build": "ember build",
     "start": "ember server",
